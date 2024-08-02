@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sapin Rosemont</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Sapin Rosemont">
+        <h1>Sapin Rosemont</h1>
+        <h2>Votre sapin québécois en un clic</h2>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>À Propos de Sapin Rosemont</h2>
+            <p>Bienvenue chez <strong>Sapin Rosemont</strong> ! Nous sommes fiers d'offrir des sapins de Noël de qualité supérieure cultivés avec soin par des producteurs locaux québécois. Nos sapins sont sélectionnés pour leur beauté et leur fraîcheur, afin de rendre vos fêtes de fin d'année encore plus spéciales.</p>
+            <p>Chez Sapin Rosemont, nous croyons en l'importance de soutenir l'économie locale et de promouvoir des pratiques durables. Chaque sapin que nous vendons contribue à maintenir les traditions de Noël tout en soutenant nos agriculteurs québécois.</p>
+        </section>
+
+        <section id="local-industry">
+            <h3>Supportons l'Industrie Québécoise</h3>
+            <p>Nos sapins sont cultivés avec passion par des producteurs locaux. En achetant chez nous, vous soutenez directement l'économie québécoise et contribuez à la préservation de nos belles forêts. Le Québec est l'un des principaux producteurs de sapins de Noël au Canada, avec une expertise et une tradition qui se transmettent de génération en génération.</p>
+        </section>
+
+        <section id="local-producers">
+            <h3>Producteurs Locaux</h3>
+            <p>Nous travaillons en étroite collaboration avec des agriculteurs de la région pour vous offrir les meilleurs sapins de Noël. Chaque arbre est cultivé avec soin et respect de l'environnement, garantissant une qualité exceptionnelle. Choisir Sapin Rosemont, c'est choisir la qualité, la fraîcheur, et un engagement envers des pratiques agricoles durables.</p>
+        </section>
+
+        <section id="punchlines">
+            <h3>Nos Valeurs</h3>
+            <ul>
+                <li>Des sapins québécois livrés chez vous</li>
+                <li>Soutenez les producteurs locaux</li>
+                <li>Facile, rapide, magique</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Sapin Rosemont. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
